@@ -1,0 +1,277 @@
+2025-04-21 15:57:13,155 - PyNaCl is not installed, voice will NOT be supported
+2025-04-21 15:57:13,158 - logging in using static token
+2025-04-21 15:57:14,763 - Shard ID None has connected to Gateway (Session ID: fe672cd8e5a116ee0b9eafda4b530d67).
+2025-04-21 15:57:14,944 - 172.31.128.152 - - [21/Apr/2025 15:57:14] "GET / HTTP/1.1" 200 -
+2025-04-21 16:01:28,306 - PyNaCl is not installed, voice will NOT be supported
+2025-04-21 16:01:28,308 - logging in using static token
+2025-04-21 16:01:30,106 - Shard ID None has connected to Gateway (Session ID: f7398d8142b74ea86cc6f752677224ae).
+2025-04-21 16:01:31,067 - PyNaCl is not installed, voice will NOT be supported
+2025-04-21 16:01:31,070 - logging in using static token
+2025-04-21 16:01:32,337 - 172.31.128.152 - - [21/Apr/2025 16:01:32] "HEAD / HTTP/1.1" 200 -
+2025-04-21 16:01:32,708 - Shard ID None has connected to Gateway (Session ID: 4ce4542a9c5d314ff4425b76c9c9c0c9).
+2025-04-21 16:01:32,750 - 172.31.128.152 - - [21/Apr/2025 16:01:32] "GET / HTTP/1.1" 200 -
+2025-04-21 16:06:36,903 - 172.31.128.152 - - [21/Apr/2025 16:06:36] "HEAD / HTTP/1.1" 200 -
+2025-04-21 16:08:02,336 - PyNaCl is not installed, voice will NOT be supported
+2025-04-21 16:08:02,339 - logging in using static token
+2025-04-21 16:08:04,168 - Shard ID None has connected to Gateway (Session ID: 290d6c3e1dcb9125a8ab2303420afd2d).
+2025-04-21 16:11:42,304 - 172.31.128.152 - - [21/Apr/2025 16:11:42] "HEAD / HTTP/1.1" 200 -
+2025-04-21 16:13:50,243 - PyNaCl is not installed, voice will NOT be supported
+2025-04-21 16:13:50,246 - logging in using static token
+2025-04-21 16:13:51,832 - Shard ID None has connected to Gateway (Session ID: a4cb226287af3257c6f4a9a022985f97).
+2025-04-21 16:16:25,305 - Error in !sentimen: module 'datetime' has no attribute 'now'
+2025-04-21 16:16:47,316 - 172.31.128.152 - - [21/Apr/2025 16:16:47] "HEAD / HTTP/1.1" 200 -
+2025-04-21 16:21:52,440 - 172.31.128.152 - - [21/Apr/2025 16:21:52] "HEAD / HTTP/1.1" 200 -
+2025-04-21 16:26:57,730 - 172.31.128.152 - - [21/Apr/2025 16:26:57] "HEAD / HTTP/1.1" 200 -
+2025-04-21 16:32:03,402 - 172.31.128.152 - - [21/Apr/2025 16:32:03] "HEAD / HTTP/1.1" 200 -
+2025-04-21 16:37:08,794 - 172.31.128.152 - - [21/Apr/2025 16:37:08] "HEAD / HTTP/1.1" 200 -
+2025-04-21 16:39:33,816 - 172.31.128.152 - - [21/Apr/2025 16:39:33] "HEAD / HTTP/1.1" 200 -
+2025-04-21 16:40:05,770 - 172.31.128.152 - - [21/Apr/2025 16:40:05] "HEAD / HTTP/1.1" 200 -
+2025-04-21 16:40:52,586 - 172.31.128.152 - - [21/Apr/2025 16:40:52] "HEAD / HTTP/1.1" 200 -
+2025-04-21 16:42:14,250 - 172.31.128.152 - - [21/Apr/2025 16:42:14] "HEAD / HTTP/1.1" 200 -
+2025-04-21 16:42:51,629 - 172.31.128.152 - - [21/Apr/2025 16:42:51] "HEAD / HTTP/1.1" 200 -
+2025-04-21 16:45:00,240 - 172.31.128.152 - - [21/Apr/2025 16:45:00] "HEAD / HTTP/1.1" 200 -
+2025-04-21 16:46:21,274 - PyNaCl is not installed, voice will NOT be supported
+2025-04-21 16:46:21,278 - logging in using static token
+2025-04-21 16:46:22,838 - Shard ID None has connected to Gateway (Session ID: 16432c7fe8787305ffd4d23d16473e2f).
+2025-04-21 16:46:24,898 - 172.31.128.152 - - [21/Apr/2025 16:46:24] "GET / HTTP/1.1" 200 -
+2025-04-21 16:47:18,368 - Ignoring exception in command roadmap
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/main.py", line 1883, in roadmap
+    data = json.load(f)
+           ^^^^^^^^^^^^
+  File "/nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "/nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/json/decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 1060 column 5 (char 31835)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/bot.py", line 1350, in invoke
+    await ctx.command.invoke(ctx)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/core.py", line 244, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: JSONDecodeError: Expecting ',' delimiter: line 1060 column 5 (char 31835)
+2025-04-21 16:47:19,001 - 172.31.128.152 - - [21/Apr/2025 16:47:19] "HEAD / HTTP/1.1" 200 -
+2025-04-21 16:47:42,035 - Ignoring exception in command roadmap
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/main.py", line 1883, in roadmap
+    data = json.load(f)
+           ^^^^^^^^^^^^
+  File "/nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "/nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/json/decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 1060 column 5 (char 31835)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/bot.py", line 1350, in invoke
+    await ctx.command.invoke(ctx)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/core.py", line 244, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: JSONDecodeError: Expecting ',' delimiter: line 1060 column 5 (char 31835)
+2025-04-21 16:47:54,674 - Error in !sentimen: type object 'datetime.datetime' has no attribute 'datetime'
+2025-04-21 16:50:37,060 - PyNaCl is not installed, voice will NOT be supported
+2025-04-21 16:50:37,063 - logging in using static token
+2025-04-21 16:50:38,681 - Shard ID None has connected to Gateway (Session ID: 13b74bcb52abb22470b7477eeb85efd2).
+2025-04-21 16:50:40,327 - 172.31.128.152 - - [21/Apr/2025 16:50:40] "GET / HTTP/1.1" 200 -
+2025-04-21 16:50:59,790 - Ignoring exception in command roadmap
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/main.py", line 1713, in roadmap
+    data = json.load(f)
+           ^^^^^^^^^^^^
+  File "/nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "/nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/json/decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 1060 column 5 (char 31835)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/bot.py", line 1350, in invoke
+    await ctx.command.invoke(ctx)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/core.py", line 244, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: JSONDecodeError: Expecting ',' delimiter: line 1060 column 5 (char 31835)
+2025-04-21 16:52:04,027 - 172.31.128.152 - - [21/Apr/2025 16:52:04] "HEAD / HTTP/1.1" 200 -
+2025-04-21 16:52:24,715 - 172.31.128.152 - - [21/Apr/2025 16:52:24] "HEAD / HTTP/1.1" 200 -
+2025-04-21 16:56:29,887 - PyNaCl is not installed, voice will NOT be supported
+2025-04-21 16:56:29,890 - logging in using static token
+2025-04-21 16:56:31,562 - Shard ID None has connected to Gateway (Session ID: 01a99da5d4137a33d1ed0c89e401a967).
+2025-04-21 16:56:38,989 - 172.31.128.152 - - [21/Apr/2025 16:56:38] "GET / HTTP/1.1" 200 -
+2025-04-21 16:57:29,085 - 172.31.128.152 - - [21/Apr/2025 16:57:29] "HEAD / HTTP/1.1" 200 -
+2025-04-21 16:58:09,550 - PyNaCl is not installed, voice will NOT be supported
+2025-04-21 16:58:09,553 - logging in using static token
+2025-04-21 16:58:11,177 - Shard ID None has connected to Gateway (Session ID: ebba21894e6f4fd997d985c33e64ef84).
+2025-04-21 16:58:13,019 - 172.31.128.152 - - [21/Apr/2025 16:58:13] "GET / HTTP/1.1" 200 -
+2025-04-21 17:02:34,382 - 172.31.128.152 - - [21/Apr/2025 17:02:34] "HEAD / HTTP/1.1" 200 -
+2025-04-21 17:04:59,628 - 172.31.128.152 - - [21/Apr/2025 17:04:59] "HEAD / HTTP/1.1" 200 -
+2025-04-21 17:05:41,270 - 172.31.128.152 - - [21/Apr/2025 17:05:41] "HEAD / HTTP/1.1" 200 -
+2025-04-21 17:06:48,907 - 172.31.128.152 - - [21/Apr/2025 17:06:48] "HEAD / HTTP/1.1" 200 -
+2025-04-21 17:07:39,139 - 172.31.128.152 - - [21/Apr/2025 17:07:39] "HEAD / HTTP/1.1" 200 -
+2025-04-21 17:08:52,687 - 172.31.128.152 - - [21/Apr/2025 17:08:52] "HEAD / HTTP/1.1" 200 -
+2025-04-21 17:09:24,108 - 172.31.128.152 - - [21/Apr/2025 17:09:24] "HEAD / HTTP/1.1" 200 -
+2025-04-21 17:10:16,418 - 172.31.128.152 - - [21/Apr/2025 17:10:16] "HEAD / HTTP/1.1" 200 -
+2025-04-21 17:12:04,549 - 172.31.128.152 - - [21/Apr/2025 17:12:04] "HEAD / HTTP/1.1" 200 -
+2025-04-21 17:12:44,570 - 172.31.128.152 - - [21/Apr/2025 17:12:44] "HEAD / HTTP/1.1" 200 -
+2025-04-21 17:14:29,560 - 172.31.128.152 - - [21/Apr/2025 17:14:29] "HEAD / HTTP/1.1" 200 -
+2025-04-21 17:16:29,691 - PyNaCl is not installed, voice will NOT be supported
+2025-04-21 17:16:29,696 - logging in using static token
+2025-04-21 17:16:31,985 - PyNaCl is not installed, voice will NOT be supported
+2025-04-21 17:16:31,988 - logging in using static token
+2025-04-21 17:16:33,465 - 172.31.128.152 - - [21/Apr/2025 17:16:33] "GET / HTTP/1.1" 200 -
+2025-04-21 17:16:33,709 - Shard ID None has connected to Gateway (Session ID: 36b1f468097453feeba39afec2c6e5ff).
+2025-04-21 17:17:50,179 - 172.31.128.152 - - [21/Apr/2025 17:17:50] "HEAD / HTTP/1.1" 200 -
+2025-04-21 17:19:21,828 - Twitter API error: 429 - {"title":"Too Many Requests","detail":"Too Many Requests","type":"about:blank","status":429}
+2025-04-21 17:20:26,988 - 172.31.128.152 - - [21/Apr/2025 17:20:26] "HEAD / HTTP/1.1" 200 -
+2025-04-21 17:22:55,283 - 172.31.128.152 - - [21/Apr/2025 17:22:55] "HEAD / HTTP/1.1" 200 -
+2025-04-21 17:28:01,650 - 172.31.128.152 - - [21/Apr/2025 17:28:01] "HEAD / HTTP/1.1" 200 -
+2025-04-21 17:32:48,734 - 172.31.128.152 - - [21/Apr/2025 17:32:48] "HEAD / HTTP/1.1" 200 -
+2025-04-21 17:33:07,274 - 172.31.128.152 - - [21/Apr/2025 17:33:07] "HEAD / HTTP/1.1" 200 -
+2025-04-21 17:38:12,749 - 172.31.128.152 - - [21/Apr/2025 17:38:12] "HEAD / HTTP/1.1" 200 -
+2025-04-21 17:43:17,823 - 172.31.128.152 - - [21/Apr/2025 17:43:17] "HEAD / HTTP/1.1" 200 -
+2025-04-21 17:48:24,240 - 172.31.128.152 - - [21/Apr/2025 17:48:24] "HEAD / HTTP/1.1" 200 -
+2025-04-21 17:53:28,836 - 172.31.128.152 - - [21/Apr/2025 17:53:28] "HEAD / HTTP/1.1" 200 -
+2025-04-21 17:57:32,974 - 172.31.128.152 - - [21/Apr/2025 17:57:32] "HEAD / HTTP/1.1" 200 -
+2025-04-21 17:58:34,541 - 172.31.128.152 - - [21/Apr/2025 17:58:34] "HEAD / HTTP/1.1" 200 -
+2025-04-21 18:03:39,609 - 172.31.128.152 - - [21/Apr/2025 18:03:39] "HEAD / HTTP/1.1" 200 -
+2025-04-21 18:08:44,107 - 172.31.128.152 - - [21/Apr/2025 18:08:44] "HEAD / HTTP/1.1" 200 -
+2025-04-21 18:13:49,675 - 172.31.128.152 - - [21/Apr/2025 18:13:49] "HEAD / HTTP/1.1" 200 -
+2025-04-21 18:18:22,130 - PyNaCl is not installed, voice will NOT be supported
+2025-04-21 18:18:22,132 - logging in using static token
+2025-04-21 18:18:23,317 - 172.31.128.152 - - [21/Apr/2025 18:18:23] "GET / HTTP/1.1" 200 -
+2025-04-21 18:18:23,839 - Shard ID None has connected to Gateway (Session ID: 51ac5352cd33a41f0fc49cc2368cdcf5).
+2025-04-21 18:19:11,507 - PyNaCl is not installed, voice will NOT be supported
+2025-04-21 18:19:11,510 - logging in using static token
+2025-04-21 18:19:13,053 - Shard ID None has connected to Gateway (Session ID: 1c7bbd670f6cba5e1a506504f2cfc541).
+2025-04-21 18:19:14,674 - 172.31.128.152 - - [21/Apr/2025 18:19:14] "GET / HTTP/1.1" 200 -
+2025-04-21 18:19:25,257 - 172.31.128.152 - - [21/Apr/2025 18:19:25] "HEAD / HTTP/1.1" 200 -
+2025-04-21 18:20:02,380 - Error in search_twitter: name 're' is not defined
+2025-04-21 18:21:18,545 - Twitter API error: 429 - {"title":"Too Many Requests","detail":"Too Many Requests","type":"about:blank","status":429}
+2025-04-21 18:22:26,899 - PyNaCl is not installed, voice will NOT be supported
+2025-04-21 18:22:26,901 - logging in using static token
+2025-04-21 18:22:28,280 - 172.31.128.152 - - [21/Apr/2025 18:22:28] "GET / HTTP/1.1" 200 -
+2025-04-21 18:22:28,412 - Shard ID None has connected to Gateway (Session ID: f543302162e1b3a77a05b969abd9e4fb).
+2025-04-21 18:24:03,484 - PyNaCl is not installed, voice will NOT be supported
+2025-04-21 18:24:03,487 - logging in using static token
+2025-04-21 18:24:03,663 - 172.31.128.152 - - [21/Apr/2025 18:24:03] "GET / HTTP/1.1" 200 -
+2025-04-21 18:24:05,030 - Shard ID None has connected to Gateway (Session ID: 6e9ecf35f992608dcbcdf939f2e41989).
+2025-04-21 18:24:30,775 - 172.31.128.152 - - [21/Apr/2025 18:24:30] "HEAD / HTTP/1.1" 200 -
+2025-04-21 18:24:35,402 - Twitter API error: 429 - {"title":"Too Many Requests","detail":"Too Many Requests","type":"about:blank","status":429}
+2025-04-24 01:39:25,240 - PyNaCl is not installed, voice will NOT be supported
+2025-04-24 01:39:25,360 - logging in using static token
+2025-04-24 01:39:26,388 - 172.31.128.91 - - [24/Apr/2025 01:39:26] "GET / HTTP/1.1" 200 -
+2025-04-24 01:39:26,913 - Shard ID None has connected to Gateway (Session ID: 904cb9278ec9e17649773787a67add28).
+2025-04-24 01:40:33,090 - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "sui" is not found
+2025-04-24 02:13:28,998 - PyNaCl is not installed, voice will NOT be supported
+2025-04-24 02:13:29,002 - logging in using static token
+2025-04-24 02:13:30,755 - Shard ID None has connected to Gateway (Session ID: 900bac334d40685497fd5bb6ed57582e).
+2025-04-24 02:14:08,185 - Ignoring exception in command team
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/main.py", line 2028, in team
+    project = find_project_by_coin(coin)
+              ^^^^^^^^^^^^^^^^^^^^
+NameError: name 'find_project_by_coin' is not defined
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/bot.py", line 1350, in invoke
+    await ctx.command.invoke(ctx)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/core.py", line 244, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: NameError: name 'find_project_by_coin' is not defined
+2025-04-24 02:14:15,987 - Ignoring exception in command team
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/main.py", line 2028, in team
+    project = find_project_by_coin(coin)
+              ^^^^^^^^^^^^^^^^^^^^
+NameError: name 'find_project_by_coin' is not defined
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/bot.py", line 1350, in invoke
+    await ctx.command.invoke(ctx)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/commands/core.py", line 244, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: NameError: name 'find_project_by_coin' is not defined
+2025-04-24 02:20:18,451 - PyNaCl is not installed, voice will NOT be supported
+2025-04-24 02:20:18,624 - logging in using static token
+2025-04-24 02:20:20,247 - Shard ID None has connected to Gateway (Session ID: 69348fd2ecc18290ca7dca23dbbf07cd).
+2025-04-24 02:23:04,541 - 172.31.128.95 - - [24/Apr/2025 02:23:04] "HEAD / HTTP/1.1" 200 -
+2025-04-24 02:26:01,159 - 172.31.128.95 - - [24/Apr/2025 02:26:01] "HEAD / HTTP/1.1" 200 -
+2025-04-28 13:16:41,778 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.201:8080
+2025-04-28 13:16:41,781 - [33mPress CTRL+C to quit[0m
+2025-04-28 13:16:57,858 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.201:8080
+2025-04-28 13:16:57,862 - [33mPress CTRL+C to quit[0m
+2025-04-28 13:17:10,303 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.201:8080
+2025-04-28 13:17:10,307 - [33mPress CTRL+C to quit[0m
