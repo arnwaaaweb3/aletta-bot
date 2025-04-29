@@ -1,0 +1,240 @@
+{
+  "sui": {
+    "project_name": "Sui",
+    "organization": "Mysten Labs",
+    "aliases": ["sui"],
+    "team": [
+      {
+        "name": "Evan Cheng",
+        "position": "CEO",
+        "bio": "Co-founder & CEO of Mysten Labs, previously Director of Engineering at Facebook and Apple.",
+        "linkedin": "https://www.linkedin.com/in/chengevan",
+        "image": "https://iq.wiki/wiki/evan-cheng"
+      },
+      {
+        "name": "Sam Blackshear",
+        "position": "CTO",
+        "bio": "Co-founder & CTO of Mysten Labs, creator of Move language, ex-Meta.",
+        "linkedin": "https://www.linkedin.com/in/sam-blackshear-599b3965",
+        "image": "https://www.theblock.co/profile/314447/sam-blackshear"
+      }
+    ]
+  },
+  "solana": {
+    "project_name": "Solana",
+    "organization": "Solana Labs",
+    "aliases": ["sol", "solana"],
+    "team": [
+      {
+        "name": "Anatoly Yakovenko",
+        "position": "Founder & CEO",
+        "bio": "Founder & CEO of Solana Labs, former engineer at Qualcomm.",
+        "linkedin": "https://www.linkedin.com/in/anatoly-yakovenko-6a3b9a1b",
+        "image": "https://www.instagram.com/solana.founder.official/"
+      }
+    ]
+  },
+  "ethereum": {
+    "project_name": "Ethereum",
+    "organization": "Ethereum Foundation",
+    "aliases": ["eth", "ethereum"],
+    "team": [
+      {
+        "name": "Vitalik Buterin",
+        "position": "Co-founder",
+        "bio": "Co-founder of Ethereum, a decentralized platform for smart contracts.",
+        "linkedin": "https://www.linkedin.com/in/vitalik-buterin-267a7456",
+        "image": "https://www.instagram.com/vitalik.eth.official/"
+      }
+    ]
+  },
+  "hyperliquid": {
+    "project_name": "Hyperliquid",
+    "organization": "Hyperliquid Labs",
+    "aliases": ["hlp", "hyperliquid"],
+    "team": [
+      {
+        "name": "Jeff Yan",
+        "position": "Co-founder & CEO",
+        "bio": "Co-founder & CEO of Hyperliquid Labs, building decentralized perpetual exchange.",
+        "linkedin": "https://www.linkedin.com/in/jeff-yan",
+        "image": "https://www.instagram.com/kevinwshpod/reel/DCJoLfspWb6/"
+      }
+    ]
+  },
+  "kaspa": {
+    "project_name": "Kaspa",
+    "organization": "Kaspa Foundation",
+    "aliases": ["kas", "kaspa"],
+    "team": [
+      {
+        "name": "Yonatan Sompolinsky",
+        "position": "Founder",
+        "bio": "Founder of Kaspa, researcher in blockchain scalability and consensus.",
+        "linkedin": "https://www.linkedin.com/in/yonatan-sompolinsky",
+        "image": null
+      }
+    ]
+  },
+  "aptos": {
+    "project_name": "Aptos",
+    "organization": "Aptos Labs",
+    "aliases": ["apt", "aptos"],
+    "team": [
+      {
+        "name": "Mo Shaikh",
+        "position": "Co-founder & CEO",
+        "bio": "Co-founder & CEO of Aptos Labs, former Strategy Lead at Meta's Novi.",
+        "linkedin": "https://www.linkedin.com/in/moshaikh",
+        "image": null
+      }
+    ]
+  },
+  "bnb": {
+    "project_name": "BNB",
+    "organization": "Binance",
+    "aliases": ["bnb"],
+    "team": [
+      {
+        "name": "Changpeng Zhao (CZ)",
+        "position": "Founder & CEO",
+        "bio": "Founder & CEO of Binance, leading global cryptocurrency exchange.",
+        "linkedin": "https://www.linkedin.com/in/cz-binance",
+        "image": null
+      }
+    ]
+  },
+  "bitget": {
+    "project_name": "Bitget Token",
+    "organization": "Bitget",
+    "aliases": ["bgb", "bitget"],
+    "team": [
+      {
+        "name": "Gracy Chen",
+        "position": "CEO",
+        "bio": "CEO of Bitget since May 2024, leading the platform's global expansion.",
+        "linkedin": "https://www.linkedin.com/in/gracychen",
+        "image": "https://www.bitget.com/news/detail/12560604452454"
+      }
+    ]
+  },
+  "manta": {
+    "project_name": "Manta Network",
+    "organization": "Manta Network",
+    "aliases": ["manta"],
+    "team": [
+      {
+        "name": "Kenny Li",
+        "position": "Co-founder",
+        "bio": "Co-founder of Manta Network, focusing on privacy-preserving blockchain solutions.",
+        "linkedin": "https://www.linkedin.com/in/kennyli",
+        "image": null
+      }
+    ]
+  },
+  "mantra": {
+    "project_name": "Mantra",
+    "organization": "Mantra",
+    "aliases": ["om", "mantra"],
+    "team": [
+      {
+        "name": "John Patrick Mullin",
+        "position": "CEO & Founder",
+        "bio": "CEO & Founder of Mantra, focusing on decentralized finance solutions.",
+        "linkedin": "https://www.linkedin.com/in/johnpatrickmullin",
+        "image": "https://www.instagram.com/p/DItbZ2oIp5h/"
+      }
+    ]
+  },
+  "ondo": {
+    "project_name": "Ondo Finance",
+    "organization": "Ondo Finance",
+    "aliases": ["ondo"],
+    "team": [
+      {
+        "name": "Nathan Allman",
+        "position": "CEO",
+        "bio": "CEO of Ondo Finance, providing institutional-grade DeFi solutions.",
+        "linkedin": "https://www.linkedin.com/in/nathanallman",
+        "image": "https://ondo.finance/team"
+      }
+    ]
+  },
+  "hedera": {
+    "project_name": "Hedera",
+    "organization": "Hedera Hashgraph",
+    "aliases": ["hbar", "hedera"],
+    "team": [
+      {
+        "name": "Leemon Baird",
+        "position": "Co-founder & Chief Scientist",
+        "bio": "Co-founder & Chief Scientist of Hedera, inventor of the Hashgraph consensus0 algorithm.",
+        "linkedin": "https://www.linkedin.com/in/leemonbaird",
+        "image": "https://www.instagram.com/leemonbaird/"
+      }
+    ]
+  },
+  "xrp": {
+    "project_name": "XRP",
+    "organization": "Ripple Labs",
+    "aliases": ["xrp", "ripple"],
+    "team": [
+      {
+        "name": "Brad Garlinghouse",
+        "position": "CEO",
+        "bio": "CEO of Ripple Labs, former President of Consumer Applications at AOL.",
+        "linkedin": "https://www.linkedin.com/in/bradgarlinghouse",
+        "image": "https://ripple.com/insights/brad-garlinghouse/"
+      },
+      {
+        "name": "David Schwartz",
+        "position": "CTO",
+        "bio": "CTO at Ripple, one of the original architects of the XRP Ledger.",
+        "linkedin": "https://www.linkedin.com/in/david-schwartz-328a9018",
+        "image": "https://twitter.com/JoelKatz"
+      }
+    ]
+  },
+  "pendle": {
+    "project_name": "Pendle",
+    "organization": "Pendle Finance",
+    "aliases": ["pendle"],
+    "team": [
+      {
+        "name": "TN",
+        "position": "Co-founder",
+        "bio": "Co-founder of Pendle, building DeFi infrastructure for yield tokenization.",
+        "linkedin": null,
+        "image": null
+      }
+    ]
+  },
+  "mantle": {
+    "project_name": "Mantle",
+    "organization": "Mantle Network",
+    "aliases": ["mantle", "mnt"],
+    "team": [
+      {
+        "name": "Arjun Kalsy",
+        "position": "Head of Ecosystem",
+        "bio": "Former Head of Growth at Polygon, now leading Mantle's ecosystem growth.",
+        "linkedin": "https://www.linkedin.com/in/arjunkalsy",
+        "image": null
+      }
+    ]
+  },
+  "movement": {
+    "project_name": "Movement Labs",
+    "organization": "Movement Labs",
+    "aliases": ["movement"],
+    "team": [
+      {
+        "name": "Rushi Manche",
+        "position": "Co-founder",
+        "bio": "Co-founder of Movement Labs, working on Move-based infrastructure.",
+        "linkedin": "https://www.linkedin.com/in/rushimanche",
+        "image": "https://www.movementlabs.xyz/"
+      }
+    ]
+  }
+}

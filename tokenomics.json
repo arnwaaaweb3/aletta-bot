@@ -1,0 +1,410 @@
+{
+  "staked-ether": {
+    "team_allocation_percent": 0,
+    "vesting_status": "fully unlocked",
+    "audited": true,
+    "whale_distribution": "medium"
+  },
+  "usd-coin": {
+    "team_allocation_percent": 10,
+    "vesting_status": "fully unlocked",
+    "audited": true,
+    "whale_distribution": "medium"
+  },
+  "wrapped-bitcoin": {
+    "team_allocation_percent": 0,
+    "vesting_status": "n/a",
+    "audited": true,
+    "whale_distribution": "medium"
+  },
+  "shiba-inu": {
+    "team_allocation_percent": 5,
+    "vesting_status": "fully unlocked",
+    "audited": false,
+    "whale_distribution": "high"
+  },
+  "litecoin": {
+    "team_allocation_percent": 0,
+    "vesting_status": "n/a",
+    "audited": true,
+    "whale_distribution": "medium"
+  },
+  "bitcoin-cash": {
+    "team_allocation_percent": 0,
+    "vesting_status": "n/a",
+    "audited": true,
+    "whale_distribution": "medium"
+  },
+  "uniswap": {
+    "team_allocation_percent": 22,
+    "vesting_status": "partially unlocked",
+    "audited": true,
+    "whale_distribution": "medium"
+  },
+  "near": {
+    "team_allocation_percent": 18,
+    "vesting_status": "ongoing unlock",
+    "audited": true,
+    "whale_distribution": "medium"
+  },
+  "stellar": {
+    "team_allocation_percent": 30,
+    "vesting_status": "partially unlocked",
+    "audited": true,
+    "whale_distribution": "medium"
+  },
+  "polygon": {
+    "team_allocation_percent": 23,
+    "vesting_status": "partially unlocked",
+    "audited": true,
+    "whale_distribution": "medium"
+  },
+  "bnb": {
+    "team_allocation_percent": 20,
+    "vesting_status": "fully unlocked",
+    "audited": true,
+    "whale_distribution": "medium"
+  },
+  "pendle": {
+    "team_allocation_percent": 25,
+    "vesting_status": "ongoing unlock",
+    "audited": true,
+    "whale_distribution": "medium"
+  },
+  "mantra": {
+    "team_allocation_percent": 33,
+    "vesting_status": "partially unlocked",
+    "audited": false,
+    "whale_distribution": "high"
+  },
+  "bitcoin": {
+    "team_allocation_percent": 0,
+    "vesting_status": "n/a",
+    "audited": true,
+    "whale_distribution": "medium"
+  },
+  "ethereum": {
+    "team_allocation_percent": 10,
+    "vesting_status": "fully unlocked",
+    "audited": true,
+    "whale_distribution": "medium"
+  },
+  "solana": {
+    "team_allocation_percent": 20,
+    "vesting_status": "partially unlocked",
+    "audited": true,
+    "whale_distribution": "medium"
+  },
+  "sui": {
+    "team_allocation_percent": 20,
+    "vesting_status": "locked",
+    "audited": false,
+    "whale_distribution": "medium"
+  },
+  "ripple": {
+    "team_allocation_percent": 40,
+    "vesting_status": "unlocked",
+    "audited": false,
+    "whale_distribution": "high"
+  },
+  "the-open-network": {
+    "team_allocation_percent": 25,
+    "vesting_status": "partially unlocked",
+    "audited": false,
+    "whale_distribution": "medium"
+  },
+  "hyperliquid": {
+    "team_allocation_percent": 20,
+    "vesting_status": "locked",
+    "audited": false,
+    "whale_distribution": "medium"
+  },
+  "ondo-finance": {
+    "team_allocation_percent": 25,
+    "vesting_status": "locked",
+    "audited": true,
+    "whale_distribution": "medium"
+  },
+  "render-token": {
+    "team_allocation_percent": 20,
+    "vesting_status": "fully unlocked",
+    "audited": true,
+    "whale_distribution": "low"
+  },
+  "manta-network": {
+    "team_allocation_percent": 30,
+    "vesting_status": "ongoing",
+    "audited": false,
+    "whale_distribution": "high"
+  },
+  "bittensor": {
+    "team_allocation_percent": 15,
+    "vesting_status": "locked",
+    "audited": true,
+    "whale_distribution": "medium"
+  },
+  "dogecoin": {
+    "team_allocation_percent": 0,
+    "vesting_status": "n/a",
+    "audited": false,
+    "whale_distribution": "high"
+  },
+  "cardano": {
+    "team_allocation_percent": 17,
+    "vesting_status": "ongoing",
+    "audited": true,
+    "whale_distribution": "medium"
+  },
+  "polkadot": {
+    "team_allocation_percent": 30,
+    "vesting_status": "linear unlock",
+    "audited": true,
+    "whale_distribution": "medium"
+  },
+  "pepe": {
+    "team_allocation_percent": 0,
+    "vesting_status": "fully unlocked",
+    "audited": false,
+    "whale_distribution": "high"
+  },
+  "hedera-hashgraph": {
+    "team_allocation_percent": 20,
+    "vesting_status": "linear unlock until 2025",
+    "audited": true,
+    "whale_distribution": "medium"
+  },
+  "tron": {
+    "team_allocation_percent": 34,
+    "vesting_status": "unknown",
+    "audited": false,
+    "whale_distribution": "high"
+  },
+  "fetch-ai": {
+    "team_allocation_percent": 15,
+    "vesting_status": "ongoing unlock",
+    "audited": true,
+    "whale_distribution": "medium"
+  },
+  "chainlink": {
+    "team_allocation_percent": 30,
+    "vesting_status": "unlocked",
+    "audited": false,
+    "whale_distribution": "medium"
+  },
+  "avalanche-2": {
+    "team_allocation_percent": 20,
+    "vesting_status": "linear vesting 4 years",
+    "audited": true,
+    "whale_distribution": "medium"
+  },
+  "aptos": {
+    "team_allocation_percent": 19,
+    "vesting_status": "gradual unlock (2023-2026)",
+    "audited": true,
+    "whale_distribution": "medium"
+  },
+  "ethena-usde": {
+    "team_allocation_percent": 27,
+    "vesting_status": "linear unlock over 3 years",
+    "audited": true,
+    "whale_distribution": "medium"
+  },
+  "celestia": {
+    "team_allocation_percent": 20,
+    "vesting_status": "linear unlock until 2027",
+    "audited": true,
+    "whale_distribution": "medium"
+  },
+  "cosmos": {
+    "team_allocation_percent": 10,
+    "vesting_status": "fully unlocked",
+    "audited": false,
+    "whale_distribution": "medium"
+  },
+  "kaspa": {
+    "team_allocation_percent": 0,
+    "vesting_status": "fully unlocked (no premine)",
+    "audited": false,
+    "whale_distribution": "high"
+  },
+  "arbitrum": {
+    "team_allocation_percent": 17.5,
+    "vesting_status": "starts March 2024, unlock 4 years",
+    "audited": true,
+    "whale_distribution": "high"
+  },
+  "sonic": {
+    "team_allocation_percent": 25,
+    "vesting_status": "not yet public",
+    "audited": false,
+    "whale_distribution": "unknown"
+  },
+  "optimism": {
+    "team_allocation_percent": 19,
+    "vesting_status": "ongoing unlock",
+    "audited": true,
+    "whale_distribution": "medium"
+  },
+  "maker": {
+    "team_allocation_percent": 15,
+    "vesting_status": "n/a",
+    "audited": false,
+    "whale_distribution": "medium"
+  },
+  "zksync": {
+    "team_allocation_percent": 33,
+    "vesting_status": "ongoing unlock",
+    "audited": true,
+    "whale_distribution": "medium"
+  },
+  "starknet": {
+    "team_allocation_percent": 32,
+    "vesting_status": "linear unlock until 2028",
+    "audited": true,
+    "whale_distribution": "medium"
+  },
+  "layerzero": {
+    "team_allocation_percent": 25,
+    "vesting_status": "starts May 2024",
+    "audited": false,
+    "whale_distribution": "medium"
+  },
+  "aevo": {
+    "team_allocation_percent": 23,
+    "vesting_status": "linear unlock over 4 years",
+    "audited": false,
+    "whale_distribution": "low"
+  },
+  "wormhole": {
+    "team_allocation_percent": 20,
+    "vesting_status": "starts Q2 2024",
+    "audited": true,
+    "whale_distribution": "medium"
+  },
+  "blast": {
+    "team_allocation_percent": 50,
+    "vesting_status": "not yet launched",
+    "audited": false,
+    "whale_distribution": "high"
+  },
+  "eigenlayer": {
+    "team_allocation_percent": 25,
+    "vesting_status": "starts May 2024",
+    "audited": true,
+    "whale_distribution": "medium"
+  },
+  "altlayer": {
+    "team_allocation_percent": 20,
+    "vesting_status": "linear vesting over 3 years",
+    "audited": true,
+    "whale_distribution": "low"
+  },
+  "renzo": {
+    "team_allocation_percent": 27,
+    "vesting_status": "TGE May 2024",
+    "audited": false,
+    "whale_distribution": "unknown"
+  },
+  "ethena": {
+    "team_allocation_percent": 25,
+    "vesting_status": "ongoing unlock",
+    "audited": true,
+    "whale_distribution": "medium"
+  },
+  "sttia": {
+    "team_allocation_percent": 0,
+    "vesting_status": "fully unlocked",
+    "audited": false,
+    "whale_distribution": "low"
+  },
+  "friend-tech": {
+    "team_allocation_percent": 15,
+    "vesting_status": "not public",
+    "audited": false,
+    "whale_distribution": "high"
+  },
+  "frame": {
+    "team_allocation_percent": 22,
+    "vesting_status": "TBA",
+    "audited": false,
+    "whale_distribution": "unknown"
+  },
+  "saga": {
+    "team_allocation_percent": 25,
+    "vesting_status": "linear unlock until 2028",
+    "audited": true,
+    "whale_distribution": "medium"
+  },
+  "zetachain": {
+    "team_allocation_percent": 30,
+    "vesting_status": "ongoing unlock",
+    "audited": true,
+    "whale_distribution": "medium"
+  },
+  "merlin-chain": {
+    "team_allocation_percent": 20,
+    "vesting_status": "not yet launched",
+    "audited": false,
+    "whale_distribution": "unknown"
+  },
+  "bouncebit": {
+    "team_allocation_percent": 27,
+    "vesting_status": "vesting begins Q2 2024",
+    "audited": false,
+    "whale_distribution": "medium"
+  },
+  "babylon": {
+    "team_allocation_percent": 25,
+    "vesting_status": "starts April 2024",
+    "audited": true,
+    "whale_distribution": "low"
+  },
+  "omni-network": {
+    "team_allocation_percent": 18,
+    "vesting_status": "linear unlock",
+    "audited": false,
+    "whale_distribution": "medium"
+  },
+  "tensor": {
+    "team_allocation_percent": 25,
+    "vesting_status": "starts April 2024",
+    "audited": false,
+    "whale_distribution": "medium"
+  },
+  "jupiter-exchange": {
+    "team_allocation_percent": 40,
+    "vesting_status": "starts April 2024",
+    "audited": false,
+    "whale_distribution": "high"
+  },
+  "story-protocol": {
+    "team_allocation_percent": 30,
+    "vesting_status": "not launched yet",
+    "audited": false,
+    "whale_distribution": "unknown"
+  },
+  "worldcoin": {
+    "team_allocation_percent": 25,
+    "vesting_status": "starts July 2024",
+    "audited": true,
+    "whale_distribution": "high"
+  },
+  "sei-network": {
+    "team_allocation_percent": 20,
+    "vesting_status": "linear unlock (2024\u20132026)",
+    "audited": true,
+    "whale_distribution": "medium"
+  },
+  "bonk": {
+    "team_allocation_percent": 0,
+    "vesting_status": "fully unlocked",
+    "audited": false,
+    "whale_distribution": "high"
+  },
+  "movement": {
+    "team_allocation_percent": 28,
+    "vesting_status": "not yet announced",
+    "audited": false,
+    "whale_distribution": "unknown"
+  }
+}

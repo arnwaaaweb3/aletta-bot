@@ -1,0 +1,1087 @@
+
+{
+  "staked-ether": [
+    {
+      "period": "2023 Q3",
+      "title": "Shanghai Upgrade Support",
+      "description": "Enabling stETH withdrawals after Ethereum's Shanghai upgrade",
+      "status": "completed"
+    },
+    {
+      "period": "2023 Q4",
+      "title": "Multi-Client Integration",
+      "description": "Enhanced support for multiple Ethereum clients",
+      "status": "completed"
+    },
+    {
+      "period": "2024 Q1",
+      "title": "Distributed Validator Technology",
+      "description": "Implementation of DVT for improved validator security",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q2-Q3",
+      "title": "Restaking Protocols",
+      "description": "Integration with EigenLayer and other restaking protocols",
+      "status": "planned"
+    }
+  ],
+  "usd-coin": [
+    {
+      "period": "2023 Q2",
+      "title": "Cross-Chain Expansion",
+      "description": "Support for additional blockchain networks",
+      "status": "completed"
+    },
+    {
+      "period": "2023 Q3-Q4",
+      "title": "Enhanced Reserve Transparency",
+      "description": "Improved reporting and attestation mechanisms",
+      "status": "completed"
+    },
+    {
+      "period": "2024 Q1-Q2",
+      "title": "USDC 2.0 Framework",
+      "description": "Major protocol upgrade for improved scalability and features",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q3-Q4",
+      "title": "Regulatory Compliance Enhancement",
+      "description": "Advanced compliance tools for institutional users",
+      "status": "planned"
+    }
+  ],
+  "wrapped-bitcoin": [
+    {
+      "period": "2023 Q3",
+      "title": "Multi-Chain WBTC",
+      "description": "Expansion to additional blockchain networks",
+      "status": "completed"
+    },
+    {
+      "period": "2023 Q4",
+      "title": "Security Enhancements",
+      "description": "Improved security and auditing mechanisms",
+      "status": "completed"
+    },
+    {
+      "period": "2024 Q1-Q2",
+      "title": "Enhanced Transparency",
+      "description": "Advanced proof of reserves and attestation mechanisms",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q3",
+      "title": "Institutional Grade Infrastructure",
+      "description": "Specialized tools for institutional WBTC usage",
+      "status": "planned"
+    }
+  ],
+  "shiba-inu": [
+    {
+      "period": "2023 Q2-Q3",
+      "title": "Shibarium L2 Launch",
+      "description": "Deployment of layer-2 scaling solution",
+      "status": "completed"
+    },
+    {
+      "period": "2023 Q4",
+      "title": "Shiba Eternity Game",
+      "description": "Full release of collectible card game",
+      "status": "completed"
+    },
+    {
+      "period": "2024 Q1",
+      "title": "SHI Stablecoin Development",
+      "description": "Development of ecosystem stablecoin",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q2-Q3",
+      "title": "Decentralized Metaverse",
+      "description": "Expansion of SHIB metaverse capabilities",
+      "status": "planned"
+    }
+  ],
+  "litecoin": [
+    {
+      "period": "2023 Q1-Q2",
+      "title": "MWEB Enhancement",
+      "description": "Improvements to MimbleWimble Extension Block privacy features",
+      "status": "completed"
+    },
+    {
+      "period": "2023 Q3-Q4",
+      "title": "Taproot Integration",
+      "description": "Implementation of Taproot for improved privacy and scalability",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q1",
+      "title": "Lightning Network Optimization",
+      "description": "Enhanced Lightning Network support for faster transactions",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q2-Q3",
+      "title": "Cross-Chain Interoperability",
+      "description": "Improved compatibility with other blockchain networks",
+      "status": "planned"
+    }
+  ],
+  "bitcoin-cash": [
+    {
+      "period": "2023 Q2",
+      "title": "Scalability Improvements",
+      "description": "Enhancements to block processing and transaction throughput",
+      "status": "completed"
+    },
+    {
+      "period": "2023 Q3-Q4",
+      "title": "Smart Contract Functionality",
+      "description": "Expanded smart contract capabilities with CashTokens",
+      "status": "completed"
+    },
+    {
+      "period": "2024 Q1",
+      "title": "Privacy Features",
+      "description": "Implementation of enhanced privacy technologies",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q2-Q3",
+      "title": "Cross-Chain Bridges",
+      "description": "Development of secure bridges to other blockchain networks",
+      "status": "planned"
+    }
+  ],
+  "uniswap": [
+    {
+      "period": "2023 Q1-Q2",
+      "title": "Uniswap v4 Development",
+      "description": "Development of next-generation AMM protocol",
+      "status": "completed"
+    },
+    {
+      "period": "2023 Q3-Q4",
+      "title": "Hooks System Implementation",
+      "description": "Customizable hooks for enhanced pool functionality",
+      "status": "completed"
+    },
+    {
+      "period": "2024 Q1",
+      "title": "Multi-Chain Expansion",
+      "description": "Native deployment to additional Layer-2 networks",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q2-Q3",
+      "title": "Advanced Trading Features",
+      "description": "Implementation of limit orders and other advanced trading tools",
+      "status": "planned"
+    }
+  ],
+  "near": [
+    {
+      "period": "2023 Q2",
+      "title": "Nightshade Sharding",
+      "description": "Implementation of sharding for improved scalability",
+      "status": "completed"
+    },
+    {
+      "period": "2023 Q3-Q4",
+      "title": "Fast Finality Upgrade",
+      "description": "Protocol improvements for faster transaction finality",
+      "status": "completed"
+    },
+    {
+      "period": "2024 Q1",
+      "title": "NEAR Digital Asset Framework",
+      "description": "Enhanced tools for digital asset creation and management",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q2-Q3",
+      "title": "Cross-Chain Interoperability",
+      "description": "Advanced multi-chain compatibility features",
+      "status": "planned"
+    }
+  ],
+  "stellar": [
+    {
+      "period": "2023 Q1-Q2",
+      "title": "Soroban Smart Contracts",
+      "description": "Implementation of Soroban smart contract platform",
+      "status": "completed"
+    },
+    {
+      "period": "2023 Q3-Q4",
+      "title": "Network Upgrade",
+      "description": "Protocol improvements for scalability and security",
+      "status": "completed"
+    },
+    {
+      "period": "2024 Q1",
+      "title": "Stellar Payment Streams",
+      "description": "Implementation of payment streaming functionality",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q2-Q3",
+      "title": "Cross-Border Payment Solutions",
+      "description": "Enhanced tools for international remittances",
+      "status": "planned"
+    }
+  ],
+  "polygon": [
+    {
+      "period": "2023 Q1-Q2",
+      "title": "Polygon zkEVM Launch",
+      "description": "Deployment of zero-knowledge Ethereum Virtual Machine",
+      "status": "completed"
+    },
+    {
+      "period": "2023 Q3-Q4",
+      "title": "Polygon 2.0",
+      "description": "Major protocol upgrade for unified layer-2 ecosystem",
+      "status": "completed"
+    },
+    {
+      "period": "2024 Q1",
+      "title": "Polygon Chain Development Kit",
+      "description": "Tools for building custom layer-2 solutions",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q2-Q3",
+      "title": "Aggregation Layer Implementation",
+      "description": "Unified solution for cross-chain communication",
+      "status": "planned"
+    }
+  ],
+  "dogecoin": [
+    {
+      "period": "2023 Q2-Q3",
+      "title": "GigaWallet API",
+      "description": "Development of simplified payment processing solutions",
+      "status": "completed"
+    },
+    {
+      "period": "2023 Q4",
+      "title": "Libdogecoin Implementation",
+      "description": "C library development for building Dogecoin projects",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q1",
+      "title": "RadioDoge Infrastructure",
+      "description": "Access to Dogecoin network via radio technology",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q2-Q3",
+      "title": "Smart Contract Integration",
+      "description": "Implementation of basic smart contract functionality",
+      "status": "planned"
+    }
+  ],
+  "bnb": [
+    {
+      "period": "2023 Q2",
+      "title": "BNB Chain Greenfield Integration",
+      "description": "Introduction of decentralized storage system for Web3",
+      "status": "completed"
+    },
+    {
+      "period": "2023 Q3-Q4",
+      "title": "opBNB Layer-2 Scaling",
+      "description": "Implementation of Optimistic Rollup L2 solution for scalability",
+      "status": "completed"
+    },
+    {
+      "period": "2024 Q1",
+      "title": "zkBNB Enhancements",
+      "description": "Zero-knowledge proof integration for improved privacy",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q2-Q3",
+      "title": "BNB Chain 3.0",
+      "description": "Major upgrade to improve interoperability and scalability",
+      "status": "planned"
+    }
+  ],
+  "bitcoin": [
+    {
+      "period": "2023 Q1",
+      "title": "Lightning Network Optimization",
+      "description": "Improvements to Lightning Network efficiency and scalability",
+      "status": "completed"
+    },
+    {
+      "period": "2023 Q2-Q3",
+      "title": "Taproot Implementation",
+      "description": "Expanding Taproot adoption and implementing new use cases",
+      "status": "completed"
+    },
+    {
+      "period": "2023 Q4",
+      "title": "Privacy Enhancements",
+      "description": "Implementing advanced privacy features for transactions",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q1-Q2",
+      "title": "Schnorr Signatures Integration",
+      "description": "Full implementation of Schnorr signature scheme",
+      "status": "planned"
+    }
+  ],
+  "ethereum": [
+    {
+      "period": "2023 Q1-Q2",
+      "title": "Shanghai Upgrade",
+      "description": "Enabling staked ETH withdrawals and reducing gas fees",
+      "status": "completed"
+    },
+    {
+      "period": "2023 Q3",
+      "title": "EIP-4844 (Proto-Danksharding)",
+      "description": "Implementing blob-carrying transactions to reduce L2 costs",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q1",
+      "title": "Surge Implementation",
+      "description": "Enhanced scalability through sharding implementation",
+      "status": "planned"
+    },
+    {
+      "period": "2024 Q3-Q4",
+      "title": "Full Sharding Implementation",
+      "description": "Enabling full data sharding for maximum throughput",
+      "status": "planned"
+    }
+  ],
+  "solana": [
+    {
+      "period": "2023 Q1",
+      "title": "Performance Optimization",
+      "description": "Improvements to transaction throughput and validator efficiency",
+      "status": "completed"
+    },
+    {
+      "period": "2023 Q2-Q3",
+      "title": "Firedancer Implementation",
+      "description": "Secondary validator client implementation for added robustness",
+      "status": "in_progress"
+    },
+    {
+      "period": "2023 Q4",
+      "title": "State Compression Improvements",
+      "description": "Enhanced state compression techniques for scalability",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q1-Q2",
+      "title": "QUIC Integration",
+      "description": "Complete migration to QUIC transport protocol for improved security",
+      "status": "planned"
+    },
+    {
+      "period": "2024 Q3-Q4",
+      "title": "Mobile SDK Enhancements",
+      "description": "Improved developer tools for mobile dApp creation",
+      "status": "planned"
+    }
+  ],
+  "cardano": [
+    {
+      "period": "2023 Q1-Q2",
+      "title": "Hydra Implementation (Phase 1)",
+      "description": "Initial deployment of Hydra Head protocol for improved scalability",
+      "status": "completed"
+    },
+    {
+      "period": "2023 Q3-Q4",
+      "title": "Voltaire Phase",
+      "description": "Implementation of governance features and self-sustainability",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q1",
+      "title": "Hydra Implementation (Phase 2)",
+      "description": "Extended Hydra protocol features for enhanced throughput",
+      "status": "planned"
+    },
+    {
+      "period": "2024 Q2-Q4",
+      "title": "Quantum Resistance Research",
+      "description": "Integration of quantum-resistant algorithms",
+      "status": "planned"
+    }
+  ],
+  "polkadot": [
+    {
+      "period": "2023 Q1",
+      "title": "Parachain Slot Auctions",
+      "description": "Additional parachain slot auctions for expanding ecosystem",
+      "status": "completed"
+    },
+    {
+      "period": "2023 Q2-Q3",
+      "title": "Cross-Consensus Messaging (XCM)",
+      "description": "Enhanced XCM implementation for improved interoperability",
+      "status": "completed"
+    },
+    {
+      "period": "2023 Q4",
+      "title": "Asynchronous Backing",
+      "description": "Implementation of asynchronous backing for parachains",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q1-Q2",
+      "title": "Parathreads Implementation",
+      "description": "Launch of parathreads for pay-as-you-go consensus",
+      "status": "planned"
+    }
+  ],
+  "arbitrum": [
+    {
+      "period": "2023 Q1-Q2",
+      "title": "Arbitrum Nitro Upgrade",
+      "description": "Improved transaction throughput and reduced fees",
+      "status": "completed"
+    },
+    {
+      "period": "2023 Q3",
+      "title": "AnyTrust Chains",
+      "description": "Implementation of AnyTrust protocol for sidechain support",
+      "status": "in_progress"
+    },
+    {
+      "period": "2023 Q4",
+      "title": "Fraud Proof Optimization",
+      "description": "Enhanced fraud proof systems for better security",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q1-Q2",
+      "title": "Arbitrum Anon",
+      "description": "Development of privacy features and anonymous transactions",
+      "status": "planned"
+    },
+    {
+      "period": "2024 Q3-Q4",
+      "title": "Interoperability Expansion",
+      "description": "Enhanced cross-chain functionality and bridge security",
+      "status": "planned"
+    }
+  ],
+  "avalanche-2": [
+    {
+      "period": "2023 Q1",
+      "title": "Apricot Phase 6+",
+      "description": "Reduced gas fees and improved EVM compatibility",
+      "status": "completed"
+    },
+    {
+      "period": "2023 Q2-Q3",
+      "title": "Fast Finality Implementation",
+      "description": "Enhanced consensus mechanisms for faster finality",
+      "status": "completed"
+    },
+    {
+      "period": "2023 Q4",
+      "title": "Avalanche Warp Messaging",
+      "description": "Implementation of Warp Messaging for cross-subnet communication",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q1-Q2",
+      "title": "Custom VM Development",
+      "description": "Enhanced tools for custom virtual machine development",
+      "status": "planned"
+    }
+  ],
+  "chainlink": [
+    {
+      "period": "2023 Q1-Q2",
+      "title": "CCIP Launch",
+      "description": "Cross-Chain Interoperability Protocol for secure cross-chain interactions",
+      "status": "completed"
+    },
+    {
+      "period": "2023 Q3",
+      "title": "Chainlink Functions",
+      "description": "Enabling customized off-chain computations",
+      "status": "in_progress"
+    },
+    {
+      "period": "2023 Q4",
+      "title": "Fair Sequencing Services",
+      "description": "Implementation of fair transaction ordering solutions",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q1-Q2",
+      "title": "Staking v1.0",
+      "description": "Full staking implementation for LINK token",
+      "status": "planned"
+    }
+  ],
+  "sui": [
+    {
+      "period": "2023 Q2",
+      "title": "Mainnet Launch",
+      "description": "Official mainnet launch of Sui blockchain",
+      "status": "completed"
+    },
+    {
+      "period": "2023 Q3",
+      "title": "Performance Optimization",
+      "description": "Enhancing TPS and reducing latency",
+      "status": "completed"
+    },
+    {
+      "period": "2023 Q4",
+      "title": "zkLogin Integration",
+      "description": "Implementation of zkLogin for enhanced security",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q1",
+      "title": "DEX Aggregation Protocol",
+      "description": "Native DEX aggregation features built into protocol",
+      "status": "planned"
+    },
+    {
+      "period": "2024 Q2-Q3",
+      "title": "Interoperability Solutions",
+      "description": "Enhanced cross-chain communication capabilities",
+      "status": "planned"
+    }
+  ],
+  "the-open-network": [
+    {
+      "period": "2023 Q1-Q2",
+      "title": "TON DNS Optimization",
+      "description": "Enhanced DNS system for domain management",
+      "status": "completed"
+    },
+    {
+      "period": "2023 Q3",
+      "title": "TON Storage Implementation",
+      "description": "Decentralized storage solution deployment",
+      "status": "completed"
+    },
+    {
+      "period": "2023 Q4",
+      "title": "TON Payments",
+      "description": "Enhanced payment channels for microtransactions",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q1-Q2",
+      "title": "Smart Contract Upgradeability",
+      "description": "Implementing contract upgrade mechanisms",
+      "status": "planned"
+    }
+  ],
+  "binancecoin": [
+    {
+      "period": "2023 Q2",
+      "title": "BNB Chain Greenfield Integration",
+      "description": "Introduction of decentralized storage system for Web3",
+      "status": "completed"
+    },
+    {
+      "period": "2023 Q3-Q4",
+      "title": "opBNB Layer-2 Scaling",
+      "description": "Implementation of Optimistic Rollup L2 solution for scalability",
+      "status": "completed"
+    },
+    {
+      "period": "2024 Q1",
+      "title": "zkBNB Enhancements",
+      "description": "Zero-knowledge proof integration for improved privacy",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q2-Q3",
+      "title": "BNB Chain 3.0",
+      "description": "Major upgrade to improve interoperability and scalability",
+      "status": "planned"
+    }
+  ],
+  "hyperliquid": [
+    {
+      "period": "2023 Q3",
+      "title": "Mainnet Launch",
+      "description": "Initial deployment of decentralized perpetual exchange",
+      "status": "completed"
+    },
+    {
+      "period": "2023 Q4",
+      "title": "Cross-Chain Settlement",
+      "description": "Enabling cross-chain settlement with Ethereum and other networks",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q1",
+      "title": "HLP Token Distribution",
+      "description": "Initial token distribution and staking mechanics",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q2-Q3",
+      "title": "Advanced Risk Management",
+      "description": "Implementation of sophisticated liquidation and insurance mechanisms",
+      "status": "planned"
+    }
+  ],
+  "ripple": [
+    {
+      "period": "2023 Q2",
+      "title": "XRP Ledger Amendments",
+      "description": "Protocol upgrades for improved consensus and security",
+      "status": "completed"
+    },
+    {
+      "period": "2023 Q3-Q4",
+      "title": "EVM Sidechain",
+      "description": "Development of EVM compatibility for XRP Ledger",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q1",
+      "title": "AMM Integration",
+      "description": "Native automated market maker functionality on XRP Ledger",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q2-Q3",
+      "title": "CBDC Integration Framework",
+      "description": "Framework for central bank digital currency integration",
+      "status": "planned"
+    }
+  ],
+  "fetch-ai": [
+    {
+      "period": "2023 Q2",
+      "title": "AI Agent Marketplace",
+      "description": "Launch of marketplace for AI agent deployment and services",
+      "status": "completed"
+    },
+    {
+      "period": "2023 Q3-Q4",
+      "title": "DeltaV Upgrade",
+      "description": "Major network upgrade for improved interoperability and speed",
+      "status": "completed"
+    },
+    {
+      "period": "2024 Q1",
+      "title": "Fetch.ai 2.0",
+      "description": "Expanded AI capabilities and agent economy implementation",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q2-Q3",
+      "title": "Cross-Chain AI Execution",
+      "description": "Enable AI agents to operate across multiple blockchain networks",
+      "status": "planned"
+    }
+  ],
+  "render-token": [
+    {
+      "period": "2023 Q2-Q3",
+      "title": "Render Network V3",
+      "description": "Major protocol upgrade with improved node incentives",
+      "status": "completed"
+    },
+    {
+      "period": "2023 Q4",
+      "title": "Creator Toolkit",
+      "description": "Enhanced tools for artists and 3D creators",
+      "status": "completed"
+    },
+    {
+      "period": "2024 Q1",
+      "title": "AI Rendering Integration",
+      "description": "Implementation of AI-assisted rendering capabilities",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q2-Q3",
+      "title": "Metaverse Rendering Solutions",
+      "description": "Specialized rendering tools for metaverse applications",
+      "status": "planned"
+    }
+  ],
+  "hedera-hashgraph": [
+    {
+      "period": "2023 Q2",
+      "title": "Staking Implementation",
+      "description": "Native HBAR staking functionality launch",
+      "status": "completed"
+    },
+    {
+      "period": "2023 Q3-Q4",
+      "title": "EVM Smart Contracts",
+      "description": "Enhanced EVM compatibility for smart contracts",
+      "status": "completed"
+    },
+    {
+      "period": "2024 Q1",
+      "title": "Hedera Consensus Service 2.0",
+      "description": "Upgraded consensus service with improved throughput",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q2-Q3",
+      "title": "Enterprise Adoption Framework",
+      "description": "Specialized enterprise solutions and integration tools",
+      "status": "planned"
+    }
+  ],
+  "tron": [
+    {
+      "period": "2023 Q2",
+      "title": "TRON 4.0",
+      "description": "Major protocol upgrade with improved scalability",
+      "status": "completed"
+    },
+    {
+      "period": "2023 Q3-Q4",
+      "title": "TRON DAO Reserve Expansion",
+      "description": "Enhanced ecosystem fund and reserve management",
+      "status": "completed"
+    },
+    {
+      "period": "2024 Q1",
+      "title": "zkTRON Implementation",
+      "description": "Zero-knowledge proof integration for privacy and scalability",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q2-Q3",
+      "title": "Enterprise Blockchain Solutions",
+      "description": "Specialized tools for enterprise blockchain adoption",
+      "status": "planned"
+    }
+  ],
+  "aptos": [
+    {
+      "period": "2023 Q2",
+      "title": "Gas Fee Optimization",
+      "description": "Reducing transaction costs and improving efficiency",
+      "status": "completed"
+    },
+    {
+      "period": "2023 Q3-Q4",
+      "title": "Aptos Name Service",
+      "description": "Implementation of domain name service for user-friendly addresses",
+      "status": "completed"
+    },
+    {
+      "period": "2024 Q1",
+      "title": "Parallel Execution Engine Upgrade",
+      "description": "Enhanced execution engine for improved performance",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q2-Q3",
+      "title": "Cross-Chain Interoperability Protocol",
+      "description": "Native bridge functionality for multi-chain operations",
+      "status": "planned"
+    }
+  ],
+  "kaspa": [
+    {
+      "period": "2023 Q2-Q3",
+      "title": "GHOSTDAG Protocol Upgrade",
+      "description": "Enhanced DAG-based consensus mechanism improvements",
+      "status": "completed"
+    },
+    {
+      "period": "2023 Q4",
+      "title": "Smart Contract Integration",
+      "description": "Initial smart contract functionality implementation",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q1",
+      "title": "Kaspa Mobile Wallet",
+      "description": "Official mobile wallet with full feature set",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q2-Q3",
+      "title": "Layer-2 Scaling Solutions",
+      "description": "Implementation of second-layer scaling for improved throughput",
+      "status": "planned"
+    }
+  ],
+  "ondo-finance": [
+    {
+      "period": "2023 Q3",
+      "title": "USDY Stablecoin Launch",
+      "description": "Yield-bearing stablecoin backed by US Treasuries",
+      "status": "completed"
+    },
+    {
+      "period": "2023 Q4",
+      "title": "Multi-Chain Expansion",
+      "description": "Deployment of USDY to additional blockchain networks",
+      "status": "completed"
+    },
+    {
+      "period": "2024 Q1",
+      "title": "Institutional DeFi Tools",
+      "description": "Advanced tools for institutional DeFi participation",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q2-Q3",
+      "title": "RWA Tokenization Platform",
+      "description": "Expanded real-world asset tokenization capabilities",
+      "status": "planned"
+    }
+  ],
+  "mantle": [
+    {
+      "period": "2023 Q2-Q3",
+      "title": "Mainnet Launch",
+      "description": "Official launch of Mantle L2 network with EVM compatibility",
+      "status": "completed"
+    },
+    {
+      "period": "2023 Q4",
+      "title": "Data Availability Layer",
+      "description": "Implementation of MDA (Mantle Data Availability) solution",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q1",
+      "title": "Modular Architecture Upgrade",
+      "description": "Enhanced modularity for improved scalability and flexibility",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q2-Q3",
+      "title": "Decentralized Sequencer Network",
+      "description": "Full decentralization of transaction sequencing functionality",
+      "status": "planned"
+    }
+  ],
+  "sonic": [
+    {
+      "period": "2023 Q3-Q4",
+      "title": "Initial Exchange Launch",
+      "description": "Deployment of Sonic DEX on multiple chains",
+      "status": "completed"
+    },
+    {
+      "period": "2024 Q1",
+      "title": "Concentrated Liquidity Pools",
+      "description": "Implementation of Uniswap v3-style concentrated liquidity",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q2",
+      "title": "Cross-Chain Aggregation",
+      "description": "Advanced cross-chain trading and liquidity aggregation",
+      "status": "planned"
+    },
+    {
+      "period": "2024 Q3-Q4",
+      "title": "Sonic DAO Governance",
+      "description": "Full DAO implementation for protocol governance",
+      "status": "planned"
+    }
+  ],
+  "worldcoin": [
+    {
+      "period": "2023 Q3",
+      "title": "World ID and Token Launch",
+      "description": "Official launch of World ID verification and WLD token",
+      "status": "completed"
+    },
+    {
+      "period": "2023 Q4",
+      "title": "Orb Expansion",
+      "description": "Global deployment of additional Orb verification devices",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q1",
+      "title": "World App Enhancement",
+      "description": "Advanced features for World App including payments integration",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q2-Q3",
+      "title": "dApp Integration Framework",
+      "description": "Tools for third-party dApps to integrate World ID verification",
+      "status": "planned"
+    }
+  ],
+  "sei-network": [
+    {
+      "period": "2023 Q2-Q3",
+      "title": "Mainnet Launch",
+      "description": "Official launch of Sei blockchain network",
+      "status": "completed"
+    },
+    {
+      "period": "2023 Q4",
+      "title": "Parallel EVM",
+      "description": "Implementation of EVM compatibility with parallel execution",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q1",
+      "title": "SeiDB Integration",
+      "description": "Implementation of SeiDB for optimized blockchain data storage",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q2-Q3",
+      "title": "Cross-Chain Interoperability",
+      "description": "Enhanced interoperability with Cosmos and EVM chains",
+      "status": "planned"
+    }
+  ],
+  "movement": [
+    {
+      "period": "2023 Q4",
+      "title": "Initial Platform Launch",
+      "description": "Launch of core Movement platform functionality",
+      "status": "completed"
+    },
+    {
+      "period": "2024 Q1",
+      "title": "SOL/MOVE Development",
+      "description": "Integration of Solana/Movement cross-chain capabilities",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q2",
+      "title": "AMM and Liquidity Integration",
+      "description": "Native AMM functionality for enhanced liquidity",
+      "status": "planned"
+    },
+    {
+      "period": "2024 Q3-Q4",
+      "title": "L2 Scaling Solutions",
+      "description": "Implementation of layer-2 scaling for improved throughput",
+      "status": "planned"
+    }
+  ],
+  "pendle": [
+    {
+      "period": "2023 Q2-Q3",
+      "title": "Pendle V2 Launch",
+      "description": "Major protocol upgrade with enhanced yield trading functionality",
+      "status": "completed"
+    },
+    {
+      "period": "2023 Q4",
+      "title": "Multi-Chain Expansion",
+      "description": "Deployment to additional EVM-compatible blockchains",
+      "status": "completed"
+    },
+    {
+      "period": "2024 Q1",
+      "title": "Real Yield Integration",
+      "description": "Enhanced real yield tokenization mechanisms",
+      "status": "in_progress"
+    },
+    {
+      "period": "2024 Q2-Q3",
+      "title": "Institutional Yield Framework",
+      "description": "Specialized tools for institutional yield trading",
+      "status": "planned"
+    }
+  ],
+  "ethena-usde": [
+    {
+      "period": "Q1 2025",
+      "title": "Peluncuran iUSDe",
+      "description": "Memperkenalkan iUSDe, versi ter-regulasi dari sUSDe, untuk menjembatani antara crypto dan keuangan tradisional.",
+      "status": "planned"
+    },
+    {
+      "period": "Q2 2025",
+      "title": "Integrasi iUSDe dengan Institusi Tradisional",
+      "description": "Bermitra dengan manajer aset, dana kredit swasta, dan produk investasi untuk distribusi iUSDe.",
+      "status": "planned"
+    },
+    {
+      "period": "Q3 2025",
+      "title": "Aplikasi Tabungan dan Pembayaran di Telegram",
+      "description": "Meluncurkan aplikasi di Telegram untuk tabungan dan pembayaran menggunakan USDe, dengan integrasi Apple Pay.",
+      "status": "planned"
+    },
+    {
+      "period": "Q4 2025",
+      "title": "Peluncuran Ethereal dan Derive",
+      "description": "Meluncurkan Ethereal (pertukaran perpetual dan spot) dan Derive (protokol opsi on-chain) menggunakan sUSDe.",
+      "status": "planned"
+    }
+  ],
+  "manta-network": [
+    {
+      "period": "Q1 2025",
+      "title": "Integrasi Celestia DA",
+      "description": "Mengintegrasikan Celestia untuk pengurangan biaya gas dan peningkatan skalabilitas.",
+      "status": "planned"
+    },
+    {
+      "period": "Q2 2025",
+      "title": "Transisi ke zkEVM",
+      "description": "Beralih dari Optimistic Rollup ke zkEVM menggunakan Polygon CDK untuk keamanan dan efisiensi.",
+      "status": "planned"
+    },
+    {
+      "period": "Q3 2025",
+      "title": "Mainnet Production I",
+      "description": "Meluncurkan Mainnet dengan Universal Circuits 2.0 dan peningkatan pengalaman pengguna.",
+      "status": "planned"
+    },
+    {
+      "period": "Q4 2025",
+      "title": "Ekspansi Ekosistem",
+      "description": "Mendukung lebih banyak aplikasi ZK dan kolaborasi dengan proyek account abstraction.",
+      "status": "planned"
+    }
+  ],
+  "bgb": [
+    {
+      "period": "Q1 2025",
+      "title": "Peningkatan Kontrak Pintar",
+      "description": "Memperbarui kontrak pintar BGB untuk mendukung utilitas on-chain dan integrasi dengan dApps.",
+      "status": "completed"
+    },
+    {
+      "period": "Q2 2025",
+      "title": "Integrasi dengan Bitget Wallet",
+      "description": "Mengintegrasikan BGB ke dalam Bitget Wallet untuk pembayaran biaya gas multi-chain dan staking.",
+      "status": "in_progress"
+    },
+    {
+      "period": "Q3 2025",
+      "title": "Ekspansi ke Aplikasi PayFi Offline",
+      "description": "Memungkinkan pembayaran offline menggunakan BGB di berbagai skenario konsumen.",
+      "status": "planned"
+    },
+    {
+      "period": "Q4 2025",
+      "title": "Program Buyback dan Burning Kuartalan",
+      "description": "Memulai program pembelian kembali dan pembakaran BGB secara kuartalan untuk mendukung model deflasi.",
+      "status": "planned"
+    }
+  ]
+}
