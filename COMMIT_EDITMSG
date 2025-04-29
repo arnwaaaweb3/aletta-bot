@@ -1,0 +1,14 @@
+Assistant checkpoint: Clean HTML tags from news content in sentiment analysis
+
+Assistant generated file changes:
+- twitter_search.py: Add re import for regex
+- main.py: Clean HTML from news content in sentimen command, Add HTML cleaning in sentimen analysis
+
+---
+
+User prompt:
+
+sudah bagus, dan sesuai... namun untuk judul berita kenapa rata rata gini "<p style="float: right; margin: 0 0 10px 15px; width: 240px;"><img src=" kenapa gak coba paste judul beritanya aja? mohon diperbaiki
+
+Replit-Commit-Author: Assistant
+Replit-Commit-Session-Id: fd75c35f-be77-4e05-8f28-4617735ea459
