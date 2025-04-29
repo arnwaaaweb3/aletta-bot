@@ -1,0 +1,61 @@
+Daftar Fitur Aletta V1 (Versi April 2025)
+Berikut adalah fitur dan keunggulan Aletta V1, kategori berdasarkan tema FPN (Fundamental, Price, News):
+
+📊 F – Fundamental
+
+1. !fa, !fund !fundamental <coin>**  -  Menampilkan info fundamental dari CoinGecko (market cap, volume, FDV, explorer, website). - [ex: !fa sui, !fund xrp, !fundamental ena]
+
+2. !fscore <coin>**  - Memberi skor fundamental berbasis CoinGecko + Tokenomics JSON (15 poin total). - [ex: !fscore eth]
+
+3. !update_tokenomics <coin> - Scrape otomatis deskripsi coin dari CoinGecko dan generate tokenomics.json.
+
+4. !metrics <coin>** - Analisis kesehatan ekosistem proyek menggunakan data dari CMC (Market Cap, Volume, Volatility, Supply Ratio, dll). - [ex: !metrics btc]
+
+5. !compare <coin>, <coin>, <coin> - [Maks.3] - Membandingkan 2-3 koin yang berbeda dengan berbagai macam parameter dan indikator.
+
+6. !roadmap <coin>** - Menampilkan roadmap pengembangan sebuah proyek kripto dengan status progressnya (completed, in_progress, delayed, atau planned). - [ex: !roadmap eth]
+
+💰 P – Price
+
+1. !harga <coin> - Menampilkan harga saat ini dan grafik harga 7 hari terakhir.
+
+2. !checkcoin <symbol> - Mendapatkan CoinGecko ID dari simbol coin (dengan caching).
+
+3.a !bubble_4h - Menampilkan bubble chart performa top 20 crypto (top 10 gainers & top 10 losers) berdasarkan % perubahan harga per 4 jam (4h) - (CMC API).
+
+3.b !bubble - Menampilkan bubble chart performa top 20 crypto (top 10 gainers & top 10 losers) berdasarkan % perubahan harian (24h/1d) - (CMC API).
+
+3.c !bubble_1w - Menampilkan bubble chart performa top 20 crypto (top 10 gainers & top 10 losers) berdasarkan % perubahan mingguan (7d/1w) - (CMC API).
+
+3.d !bubble_1m - Menampilkan bubble chart performa top 20 crypto (top 10 gainers & top 10 losers) berdasarkan % perubahan bulanan (30d/4w/1m) - (CMC API).
+
+3.e !bubble_all - Menampilkan bubble chart performa (% perubahan harga) di 1d, 7d, dan 30d dalam satu grafik
+
+4. !mywatchlist** - Menampilkan performa % perubahan harga dari daftar pantauan yang telah ditambahkan, dengan:
+
+5. !addcoin [coin] - Menambahkan koin ke dalam daftar pantauan yang kemudian bisa diakses melalui !mywatchlist"
+
+6. !remove [coin] - *Menghapus koin dari dalam daftar pantauan yang kemudian bisa diakses melalui "!mywatchlist"
+
+7. !clearwatchlist - *Menghapus semua koin yang ada di dalam watchlist.json melalui embbed message
+
+8. !fixjson - Menghapus dan mengetik ulang file watchlist.json secara otomatis
+
+📰 N – News
+
+1. !kb, !kategori, !kategori_berita - Menampilkan embbed message yang mempersilahkan pengguna untuk mencari berita sesuai kategori yang sudah disediakan
+
+2. !sentimen <coin>** - Mencari, menganalisis, dan merangkum berita terbaru tentang koin tertentu dengan analisis sentimen (bullish/bearish/netral). - [ex: !sentimen xrp]
+
+Background Task
+Bot otomatis posting berita dari 10+ sumber setiap jam ke channel default.
+
+🧠 Smart System
+
+✅ tokenomics.json custom, mendukung pengisian manual dan update semi-otomatis via CoinGecko scraping.
+
+✅ COIN_MAPPING internal agar command tetap bisa pakai simbol populer seperti btc, eth, sui, dll.
+
+✅ Caching ID coin via CoinGecko untuk efisiensi API.
+
+✅ Logging lengkap via file aletta.log.
